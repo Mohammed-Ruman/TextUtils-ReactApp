@@ -1,0 +1,27 @@
+.textbox{
+    align-items: center;
+    
+}
+
+#hd{
+    color: rgb(7, 194, 194);
+    text-align: center;
+}
+
+.but:focus{
+    background-color: green;
+}
+
+.wc{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#pg{
+    overflow: auto;
+    color: red;
+}
+
+#ht{
+    height: 50px;
+}
